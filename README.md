@@ -6,14 +6,21 @@ The Coffee House project showcases a simple web page for a coffee house, designe
 ## HTML Structure
 
 ### Navigation Section (`<nav>`)
+![image](https://github.com/saifulislam05/coffee-house/assets/73392705/4f4e9440-de70-4587-9858-513646118c9b)
+
 - The navigation section includes a search input field with a sticky position.
 - It has a background image with a cover effect and a shadow.
 
 ### Coffee Menu (`<section class="coffee_menu">`)
+![image](https://github.com/saifulislam05/coffee-house/assets/73392705/b44375a2-70c8-42ac-874c-9dd4f2f7c794)
+
 - The coffee menu section displays coffee items with images and names.
 - Each coffee item has a circular image with a hover effect.
 
 ### Coffee Descriptions (`<section class="coffee_des">`)
+![image](https://github.com/saifulislam05/coffee-house/assets/73392705/18bc1a38-5446-42e1-82a9-9a1c3d676859)
+![image](https://github.com/saifulislam05/coffee-house/assets/73392705/9daf1608-f7b1-44ed-9c05-d5bd88754d22)
+
 - The coffee descriptions section contains information about the coffee house.
 - It has multiple paragraphs with a brown heading for Coffee List.
 
