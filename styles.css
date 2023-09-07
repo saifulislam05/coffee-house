@@ -99,8 +99,15 @@ nav input:focus{
     box-shadow: 0px 0px 8px #a52a2a;
  }
 
- .coffee_des p{
+ .coffee_des h1{
+    color: #a52a2a;
+ }
+ .coffee_des p ,.coffee_des ol{
     line-height: 20px;
     color: #a52a2a;
+ }
+
+ .coffee_des ol li{
+    padding: 5px;
  }
  /* --------Coffee Description End------------- */
